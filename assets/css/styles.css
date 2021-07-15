@@ -1,0 +1,35 @@
+title {
+}
+
+title {
+}
+
+body {
+  background-image: url('../../assets/img/back.png');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+}
+
+h1 {
+  text-align: center;
+  position: absolute;
+}
+
+h1 {
+  margin-left: 130px;
+  margin-right: 50px;
+  font-size: 50px;
+  text-align: center;
+}
+
+iframe {
+  margin-left: 270px;
+  margin-right: 50px;
+  margin-top: 10px;
+}
+
+small {
+  margin-left: 40px;
+}
+
