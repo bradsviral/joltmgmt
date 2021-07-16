@@ -1,0 +1,43 @@
+.carousel-1 {
+  left: -9999px;
+  right: -9999px;
+  margin: 0 auto;
+  max-width: none;
+  min-width: 100%;
+  position: absolute;
+}
+
+#caro {
+  margin: auto;
+}
+
+p {
+}
+
+table {
+  margin: auto;
+  margin-top: 483px;
+}
+
+h1 {
+  margin: 0;
+}
+
+.col-lg-12 {
+  text-align: center;
+}
+
+h1 {
+  text-align: center;
+}
+
+#mainNav {
+  margin-left: -90px;
+}
+
+element.style {
+  background: rgb(255,255,255);
+  color: rgb(255,255,255);
+  margin-left: -60px;
+}
+
